@@ -4,18 +4,13 @@
     <img src="https://readme-typing-svg.demolab.com?font=Comic+Sans+MS&size=30&pause=1000&center=true&width=520&lines=API+Integration+%26+Extension+Expert;Generative+AI+Specialist;Rich+Industry+Experience" alt="Typing SVG" />
   </a>
 </div>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-</picture>
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=pvv12530&style=flat-square&color=blue" alt="Profile Views"/>
 </div>
 
 ---
 
-## � About Me
+## 🚀 About Me
 
 I am a passionate and results-driven **Full Stack Developer** with over 6 years of experience delivering robust solutions for startups, enterprises, and SaaS platforms. My core strengths are **API integration** and **Chrome extension development**, enabling seamless connectivity and enhanced user experiences. I thrive on building scalable products, integrating cutting-edge AI, and solving complex business challenges across diverse industries.
 

@@ -95,6 +95,4 @@ I am a passionate and results-driven **Full Stack Developer** with over 6 years 
 
 ---
 
-![Stats Overview](https://raw.githubusercontent.com/pvv12530/github-stats-transparent/output/generated/overview.svg)
-![Most Used Languages](https://raw.githubusercontent.com/pvv12530/github-stats-transparent/output/generated/languages.svg)
 [![pvv12530's GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=pvv12530&theme=dark&background=000000)](https://git.io/streak-stats)

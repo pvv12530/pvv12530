@@ -12,7 +12,7 @@
 
 ## 🚀 About Me
 
-I am a passionate and results-driven **Full Stack Developer** with over 6 years of experience delivering robust solutions for startups, enterprises, and SaaS platforms. My core strengths are **API integration** and **Chrome extension development**, enabling seamless connectivity and enhanced user experiences. I thrive on building scalable products, integrating cutting-edge AI, and solving complex business challenges across diverse industries.
+I am a passionate and results-driven **Full Stack Developer** with over 6 years of experience delivering robust solutions for startups, enterprises, and SaaS platforms. Strong background in LLM-driven applications, modern web & mobile development, and cloud-native architectures. Proven ability to own projects end-to-end, deliver on tight deadlines, and maintain high code quality in fast-paced environments. Trusted by startups and enterprise clients to translate business requirements into reliable, production-ready solutions. Professional Software Engineer with a focus on Python & Node.js, AI/NLP/LLMs, TypeScript, Restful API, and AWS among other technologies, dedicated to both backend and frontend development.
 
 ---
 
